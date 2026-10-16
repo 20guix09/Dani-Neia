@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dani-neia-estetica.guilhermelimad224341.chatgpt.site/sitemap.xml
