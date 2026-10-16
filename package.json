@@ -1,7 +1,0 @@
-{
-  "name": "dani-neia-estetica",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Site estático de Dani Neia Estética, sem dependências de execução.",
-  "scripts": { "build": "node scripts/build.mjs", "check": "node --check js/config.js && node --check js/app.js && node --check scripts/build.mjs" }
-}
